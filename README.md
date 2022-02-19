@@ -16,5 +16,5 @@
 - [粘液科技中文Wiki](https://slimefun.guizhanss.wiki/)
 - [粘液科技中文构建站](https://builds.guizhanss.net/)
 
-所有我维护的Minecraft插件可以在[这里](https://github.com/haiman233)找到。
+所有我维护的Minecraft插件可以在[这里](https://github.com/SlimefunGuguProject)找到。
 
