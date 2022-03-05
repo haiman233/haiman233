@@ -8,9 +8,14 @@
 - Slimefun服务器: QQ群号：783629843 ip：wdsj.fit:6896
 - QQ：2906266394
 
-![](https://github-readme-stats.vercel.app/api?username=haiman233&show_icons=true&hide_title=false)
+<p align="center">
 
-## 🔗 Links
+  <img src="https://github-readme-stats.vercel.app/api?username=haiman233&show_icons=true" alt="Profile Stats"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiman233&layout=compact"><br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=haiman233">
+</p>## 
+
+🔗 Links
 
 - [粘液科技材质包](https://ybw0014.net/post/guizhancraft-resource-pack)
 - [粘液科技中文Wiki](https://slimefun.guizhanss.wiki/)
