@@ -8,7 +8,7 @@
 - Slimefun服务器: QQ群号：783629843 ip：wdsj.fit:6896
 - QQ：2906266394
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ybw0014)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=haiman233)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
 
