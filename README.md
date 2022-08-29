@@ -8,6 +8,7 @@
 - Slimefun服务器: QQ群号：783629843 ip：wdsj.fit:6896
 - QQ：2906266394
 
+[![](https://raw.githubusercontent.com/haiman233/haiman233/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![trophy](https://github-profile-trophy.vercel.app/?username=haiman233)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
