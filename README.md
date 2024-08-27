@@ -12,7 +12,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haiman233&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haiman233&theme=nord_bright&utcOffset=8)
 [![trophy](https://github-profile-trophy.vercel.app/?username=haiman233)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://komarev.com/ghpvc/?username=haiman233&abbreviated=true)
+
 
 <p align="center">
 
@@ -20,6 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiman233&layout=compact"><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=haiman233">
 </p>
+
+![](https://komarev.com/ghpvc/?username=haiman233&abbreviated=true)
 
 🔗 Links
 
