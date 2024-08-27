@@ -3,7 +3,7 @@
 - haiman233, 海曼
 - Country (国家): China
 - Human languages (语言): Chinese, English
-- Games (主玩游戏): Minecraft(我的世界), Genshin Impact（原神）, Brawl Stars（荒野乱斗）
+- Games (主玩游戏): Minecraft(我的世界), Brawl Stars（荒野乱斗）
 - Minecraft: Slimefun wiki addon页面维护者, 部分Slimefun Addon汉化者 
 - Slimefun服务器: 广告位招租（错乱）
 - QQ：2906266394
@@ -12,6 +12,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haiman233&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haiman233&theme=nord_bright&utcOffset=8)
 [![trophy](https://github-profile-trophy.vercel.app/?username=haiman233)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://komarev.com/ghpvc/?username=haiman233&abbreviated=true)
 
 <p align="center">
 
