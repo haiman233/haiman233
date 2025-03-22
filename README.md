@@ -31,4 +31,3 @@
 
 所有我维护的Minecraft插件可以在[这里](https://github.com/SlimefunGuguProject)找到。
 
-![下载数](https://img.shields.io/github/downloads/haiman233/total)
