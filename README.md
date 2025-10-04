@@ -7,7 +7,7 @@
 - Minecraft: Slimefun wiki addon页面维护者, 部分Slimefun Addon汉化者 
 - Slimefun服务器: 广告位招租（错乱）
 - QQ：2906266394
-- 赞助我(爱发电)：https://afdian.com/a/haimanCN
+- Sponsor me 赞助我(爱发电)：https://afdian.com/a/haimanCN
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haiman233&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haiman233&theme=nord_bright)
