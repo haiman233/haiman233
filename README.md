@@ -13,7 +13,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=haiman233&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=haiman233&theme=nord_bright&utcOffset=8)
 [![trophy](https://github-profile-trophy.vercel.app/?username=haiman233)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=haiman233&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
 
